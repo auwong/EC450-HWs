@@ -1,7 +1,7 @@
 ******************************************************************************
-                  MSP430 Linker PC v4.4.4                      
+                  MSP430 Linker PC v4.4.3                      
 ******************************************************************************
->> Linked Thu Apr 09 02:17:57 2015
+>> Linked Thu Apr 09 01:11:31 2015
 
 OUTPUT FILE NAME:   <EC450_HW6.out>
 ENTRY POINT SYMBOL: "_c_int00_noargs_noexit"  address: 0000c138
